@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>multiple and devision</title>
+</head>
+<body>
+    <form>
+    enter first number:<input type="number" id="first"><br>
+    enter second number:<input type="number" id="second"><br>
+    <input type="button" onclick="multiple()" value="mutiplication">
+    <input type="button" onclick="division()" value="division">
+    </form>
+    <p>The result is: <span id="result"></span></p>
+    <script>
+        function multiple(){
+        const number1=parseInt(document.getElementById("first").value);
+        const number2=parseInt(document.getElementById("second").value);
+        const result=num1*num2;
+        document.getElementById("result").textContent=result;       
+        }
+        function division(){
+             var num1=document.getElementById("first").value;
+             var num2=document.getElementById("second").value;
+            const divs=num1/num2;
+             document.getElementById("result").textContent=divs;
+        }
+    </script>  
+</body>
+</html>

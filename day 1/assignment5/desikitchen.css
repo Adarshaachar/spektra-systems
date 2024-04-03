@@ -1,0 +1,31 @@
+
+h1{
+    margin-top: 0;
+  margin-bottom: 20px;
+  color: #bc1e1e;
+  font-size: 240%;
+  word-spacing: 4px;
+}
+nav {
+    background-color: #5c5b5b;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  nav ul {
+    list-style-type: none;
+  }
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  .footer{
+    background-color: #5c5b5b;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }

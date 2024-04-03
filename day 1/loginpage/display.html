@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>User Details</title>
+<style>
+    .display-container2{
+        width:400px;
+        margin:20px auto;
+        background-color:#a68a8aa5;
+        padding:20px;
+        border-radius:5px;
+        padding-right:20px;
+    }
+    h1{
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <h1>details page</h1>
+    <div class="display-container2">
+        <div id="name">Name:</div>
+        <div id="email">Email:</div>
+        <div id="phone">Phone:</div>
+        <div id="age">Age:</div>
+    </div>
+    <script>
+        const name=localStorage.getItem("name");
+        const email=localStorage.getItem("email");
+        const phone=localStorage.getItem("phone");
+        const age=localStorage.getItem("age");
+        document.getElementById("name").textContent+=name;
+        document.getElementById("email").textContent+=email;
+        document.getElementById("phone").textContent+=phone;
+        document.getElementById("age").textContent+=age;
+    </script>
+</body>
+</html>
