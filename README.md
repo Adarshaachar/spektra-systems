@@ -1,0 +1,1 @@
+This project is a full-stack web application developed during my internship using HTML, CSS, Bootstrap, and Angular for the front-end, combined with .NET C# and Web API for the back-end. It features a responsive design, dynamic data binding, and a RESTful API for seamless client-server communication.
