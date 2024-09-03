@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+  }
+  .name{
+    color: aliceblue;
+  }
+  .proffession{
+    color: aliceblue;
+  }
+  body {
+    background-color: black;
+    width: 100vw;
+  }
+  .image-width {
+    width: 80%;
+  }
+  .row-1 {
+    font-weight: 900;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .col-sm-7 {
+    background-color: #3a3a3a;
+  }
+  .col-sm-7 h1 {
+    text-align: center;
+    color: white;
+  }
+  .col-sm-7 h3,
+  p {
+    margin-left: 40px;
+    color: azure;
+  }
+  
+  .cards h1,
+  h3 {
+    margin: 30px;
+    color: rgb(242, 236, 236);
+    font-size: 2rem;
+  }
+
+  .cards {
+    border-radius: 10px;
+  }
+  
+  .cards h4 {
+    margin: 30px;
+    font-size: 1.5rem;
+    color: aliceblue;
+  }
+  
+  .cards p {
+    font-size: 1rem;
+  }
+  
