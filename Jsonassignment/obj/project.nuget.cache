@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3OskNTFdjzRtQwDb5V3feiRs01uAYeSH1XIJ33XZPpwKgJtcI4/VkU33QGvFYD11KJUGsk6MsbkCSzjS58nTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adarsh\\OneDrive\\Desktop\\Spektra INTERNSHIP\\c#\\assignment5\\Jsonassignment\\Jsonassignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adarsh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\bin\Debug\net8.0\Jsonassignment.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\bin\Debug\net8.0\Jsonassignment.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\bin\Debug\net8.0\Jsonassignment.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\bin\Debug\net8.0\Jsonassignment.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\bin\Debug\net8.0\Jsonassignment.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassignment.csproj.AssemblyReference.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassignment.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassignment.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassignment.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassi.FBB81867.Up2Date
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassignment.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\refint\Jsonassignment.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassignment.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\Jsonassignment.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\Jsonassignment\obj\Debug\net8.0\ref\Jsonassignment.dll
