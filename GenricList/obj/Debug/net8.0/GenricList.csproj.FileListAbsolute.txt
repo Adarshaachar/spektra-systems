@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\bin\Debug\net8.0\GenricList.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\bin\Debug\net8.0\GenricList.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\bin\Debug\net8.0\GenricList.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\bin\Debug\net8.0\GenricList.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\bin\Debug\net8.0\GenricList.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\GenricList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\GenricList.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\GenricList.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\GenricList.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\GenricList.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\refint\GenricList.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\GenricList.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\GenricList.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\GenricList\obj\Debug\net8.0\ref\GenricList.dll
