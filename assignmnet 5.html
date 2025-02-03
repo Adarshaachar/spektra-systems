@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>avg and grade of array</title>
+</head>
+<body>
+    <h1> calculator</h1>
+    <form>
+    input marks separated by comma(,)<input type="text" id="number">
+    <input type="button" onclick="calculate()" value="calculate">
+   
+    <p>sum is :<span id="sum"></span></p>
+    <p>avg is :<span id="avg"></span></p>
+    <p>grade is :<span id="grade"></span></p>
+</form>
+    <script>
+        function gradecalculater(arr){
+            let sum=0;
+            for(let num of arr){
+                sum+=num;
+            }
+            let avg=sum/5;
+            let grade;
+            if(avg>=91){
+                grade='A';
+            }
+            else if(avg>=81){
+                grade='B';
+            }
+            else if(avg>=71){
+                grade='C';
+            }
+            else{
+                grade='D';
+            }
+            return {
+                sum:sum,avg:avg,grade:grade
+            };
+            
+        }
+        function calculate(){
+            let input=document.getElementById("number").value;
+            let number=input.split(",").map(Number);
+            let result=gradecalculater(number);
+            document.getElementById("sum").textContent=result.sum;
+            document.getElementById("avg").textContent=result.avg;
+            document.getElementById("grade").textContent=result.grade;
+        }
+    </script>
+    
+</body>
+</html>

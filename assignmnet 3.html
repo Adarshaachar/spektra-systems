@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>First January being Sunday</title>
+</head>
+<body>
+    <h1>First January being Sunday between 2014 and 2050</h1>
+    <script>
+        function findFirstSundayJanuary() {
+            const sundayJanuaryYears=[];
+            for (let year=2014;year<=2050;year++) {
+                const firstJanuary=new Date(year,0,1);
+                if (firstJanuary.getDay()===0) { 
+                    sundayJanuaryYears.push(firstJanuary.toDateString());
+                }
+            }
+            return sundayJanuaryYears;
+        }   
+        const sundayJanuaryYears=findFirstSundayJanuary();
+        console.log("First January being Sunday between 2014 and 2050:");
+        sundayJanuaryYears.forEach(year=>document.write(year+"<br>"));
+   
+    </script>
+</body>
+</html>
