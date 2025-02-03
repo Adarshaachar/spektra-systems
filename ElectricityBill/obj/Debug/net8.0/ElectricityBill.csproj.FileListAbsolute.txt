@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\bin\Debug\net8.0\ElectricityBill.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\bin\Debug\net8.0\ElectricityBill.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\bin\Debug\net8.0\ElectricityBill.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\bin\Debug\net8.0\ElectricityBill.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\bin\Debug\net8.0\ElectricityBill.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\ElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\ElectricityBill.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\ElectricityBill.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\ElectricityBill.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\ElectricityBill.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\refint\ElectricityBill.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\ElectricityBill.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\ElectricityBill.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\ElectricityBill\obj\Debug\net8.0\ref\ElectricityBill.dll
