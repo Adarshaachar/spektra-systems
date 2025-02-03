@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\bin\Debug\net8.0\2_assignment.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\bin\Debug\net8.0\2_assignment.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\bin\Debug\net8.0\2_assignment.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\bin\Debug\net8.0\2_assignment.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\bin\Debug\net8.0\2_assignment.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\2_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\2_assignment.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\2_assignment.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\2_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\2_assignment.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\refint\2_assignment.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\2_assignment.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\2_assignment.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment6\2_assignment\obj\Debug\net8.0\ref\2_assignment.dll
