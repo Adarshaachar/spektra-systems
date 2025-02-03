@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\employeedetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\employeedetails.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\employeedetails.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\employeedetails.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\bin\Debug\net8.0\employeedetails.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\bin\Debug\net8.0\employeedetails.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\bin\Debug\net8.0\employeedetails.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\bin\Debug\net8.0\employeedetails.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\bin\Debug\net8.0\employeedetails.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\employeedetails.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\refint\employeedetails.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\employeedetails.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\employeedetails.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment3\employeedetails\obj\Debug\net8.0\ref\employeedetails.dll
