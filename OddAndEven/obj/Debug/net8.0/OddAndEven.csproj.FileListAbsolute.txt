@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\bin\Debug\net8.0\OddAndEven.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\bin\Debug\net8.0\OddAndEven.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\bin\Debug\net8.0\OddAndEven.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\bin\Debug\net8.0\OddAndEven.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\bin\Debug\net8.0\OddAndEven.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\OddAndEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\OddAndEven.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\OddAndEven.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\OddAndEven.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\OddAndEven.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\refint\OddAndEven.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\OddAndEven.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\OddAndEven.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\OddAndEven\obj\Debug\net8.0\ref\OddAndEven.dll

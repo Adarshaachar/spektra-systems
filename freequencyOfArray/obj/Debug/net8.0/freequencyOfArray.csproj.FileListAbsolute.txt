@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\bin\Debug\net8.0\freequencyOfArray.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\bin\Debug\net8.0\freequencyOfArray.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\bin\Debug\net8.0\freequencyOfArray.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\bin\Debug\net8.0\freequencyOfArray.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\bin\Debug\net8.0\freequencyOfArray.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\freequencyOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\freequencyOfArray.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\freequencyOfArray.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\freequencyOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\freequencyOfArray.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\refint\freequencyOfArray.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\freequencyOfArray.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\freequencyOfArray.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\freequencyOfArray\obj\Debug\net8.0\ref\freequencyOfArray.dll

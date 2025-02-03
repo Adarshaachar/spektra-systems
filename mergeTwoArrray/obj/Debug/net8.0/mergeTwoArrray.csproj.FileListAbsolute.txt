@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\bin\Debug\net8.0\mergeTwoArrray.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\bin\Debug\net8.0\mergeTwoArrray.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\bin\Debug\net8.0\mergeTwoArrray.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\bin\Debug\net8.0\mergeTwoArrray.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\bin\Debug\net8.0\mergeTwoArrray.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\mergeTwoArrray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\mergeTwoArrray.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\mergeTwoArrray.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\mergeTwoArrray.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\mergeTwoArrray.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\refint\mergeTwoArrray.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\mergeTwoArrray.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\mergeTwoArrray.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\mergeTwoArrray\obj\Debug\net8.0\ref\mergeTwoArrray.dll

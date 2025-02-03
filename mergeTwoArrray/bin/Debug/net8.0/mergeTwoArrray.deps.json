@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mergeTwoArrray/1.0.0": {
+        "runtime": {
+          "mergeTwoArrray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mergeTwoArrray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
