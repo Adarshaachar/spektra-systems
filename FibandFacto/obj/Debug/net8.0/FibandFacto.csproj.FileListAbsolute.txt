@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\FibandFacto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\FibandFacto.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\FibandFacto.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\FibandFacto.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\bin\Debug\net8.0\FibandFacto.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\bin\Debug\net8.0\FibandFacto.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\bin\Debug\net8.0\FibandFacto.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\bin\Debug\net8.0\FibandFacto.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\bin\Debug\net8.0\FibandFacto.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\FibandFacto.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\refint\FibandFacto.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\FibandFacto.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\FibandFacto.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment5\FibandFacto\obj\Debug\net8.0\ref\FibandFacto.dll

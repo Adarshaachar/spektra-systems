@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\bin\Debug\net8.0\checkSalary.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\bin\Debug\net8.0\checkSalary.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\bin\Debug\net8.0\checkSalary.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\bin\Debug\net8.0\checkSalary.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\bin\Debug\net8.0\checkSalary.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\checkSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\checkSalary.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\checkSalary.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\checkSalary.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\checkSalary.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\refint\checkSalary.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\checkSalary.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\checkSalary.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\checkSalary\obj\Debug\net8.0\ref\checkSalary.dll
