@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\bin\Debug\net8.0\SimpleIntrest.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\bin\Debug\net8.0\SimpleIntrest.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\bin\Debug\net8.0\SimpleIntrest.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\bin\Debug\net8.0\SimpleIntrest.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\bin\Debug\net8.0\SimpleIntrest.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\SimpleIntrest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\SimpleIntrest.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\SimpleIntrest.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\SimpleIntrest.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\SimpleIntrest.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\refint\SimpleIntrest.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\SimpleIntrest.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\SimpleIntrest.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\SimpleIntrest\obj\Debug\net8.0\ref\SimpleIntrest.dll

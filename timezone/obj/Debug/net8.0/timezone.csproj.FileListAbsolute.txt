@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\bin\Debug\net8.0\timezone.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\bin\Debug\net8.0\timezone.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\bin\Debug\net8.0\timezone.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\bin\Debug\net8.0\timezone.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\bin\Debug\net8.0\timezone.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\timezone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\timezone.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\timezone.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\timezone.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\timezone.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\refint\timezone.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\timezone.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\timezone.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\timezone\obj\Debug\net8.0\ref\timezone.dll
