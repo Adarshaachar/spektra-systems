@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\specialChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\specialChar.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\specialChar.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\specialChar.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\bin\Debug\net8.0\specialChar.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\bin\Debug\net8.0\specialChar.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\bin\Debug\net8.0\specialChar.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\bin\Debug\net8.0\specialChar.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\bin\Debug\net8.0\specialChar.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\specialChar.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\refint\specialChar.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\specialChar.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\specialChar.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\assignment4\specialChar\obj\Debug\net8.0\ref\specialChar.dll
