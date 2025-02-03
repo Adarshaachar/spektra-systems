@@ -1,0 +1,14 @@
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\bin\Debug\net8.0\wordcount.exe
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\bin\Debug\net8.0\wordcount.deps.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\bin\Debug\net8.0\wordcount.runtimeconfig.json
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\bin\Debug\net8.0\wordcount.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\bin\Debug\net8.0\wordcount.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\wordcount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\wordcount.AssemblyInfoInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\wordcount.AssemblyInfo.cs
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\wordcount.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\wordcount.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\refint\wordcount.dll
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\wordcount.pdb
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\wordcount.genruntimeconfig.cache
+C:\Users\Adarsh\OneDrive\Desktop\Spektra INTERNSHIP\c#\wordcount\obj\Debug\net8.0\ref\wordcount.dll
